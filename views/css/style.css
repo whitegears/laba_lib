@@ -1,0 +1,116 @@
+*{
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+}
+
+.container__welcum {
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px black;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 4.5rem;
+}
+
+body {
+  background-color: black;
+}
+
+.game{
+  width: 400px;
+}
+
+.cyber{
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+
+.discpl{
+  color:rgb(255, 255, 255);
+  text-align: justify;
+}
+
+.discpl.dota{
+  margin-top: 4rem;
+  float: right;
+}
+
+.TablePlayer{
+  color: azure;
+  margin-left: 27rem;
+  margin-top: 3rem;
+}
+
+.TableComand{
+  color: azure;
+  margin-left: 17rem;
+  margin-top: 3rem;
+}
+
+.TableTournament{
+  color: azure;
+  margin-left: 20rem;
+  margin-top: 3rem;
+}
+
+.parametrs{
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #fff;
+  color: black;
+  margin-top: 2rem;
+}
+
+/* Player */
+.parametrs.three{
+  margin-left: 2rem;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0rem;
+}
+
+.parametrs.two{
+  margin-left: 2rem;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0rem;
+}
+
+.parametrs.one{
+  margin-left: 27rem;
+}
+
+
+/* Turnament */
+
+.parametrs.one1{
+  margin-left: 20rem;
+}
+
+/* Comands */
+
+.parametrs.one2{
+  margin-left: 17rem;
+}
+
+/* CREATE */
+
+.create{
+  color: #fff;
+}
+
+.submit{
+  padding: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 10px;
+}
